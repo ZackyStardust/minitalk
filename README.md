@@ -24,5 +24,5 @@ One of the first projects on the second level of the 42 common core is the minit
 ## ▶️ How to run
 - Clone this repo.
 - Type ```make```.
-- Open two terminals. In one, execute the server. Copy the displayer pid.
+- Open two terminals. In one, execute the server. Copy the displayed pid.
 - In the second terminal, execute the client. The first argument should be the pid, and the second, the string.
